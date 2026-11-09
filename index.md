@@ -9,7 +9,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Berani Tidak Disukai](ebook/Berani Tidak Disukai.pdf) – Ichiro Kishimi & Fumitake Koga (2019)
 6. [Buku Metode Penelitian Kualitatif](ebook/Buku Metode Penelitian Kualitatif.pdf) – Hardani, dkk. (2020)
 7. [Buku Ajar Konsep Sistem Informasi](ebook/Buku Ajar Konsep Sistem Informasi.pdf) – Dedy Rahman Prehanto (2020)
-8. [Madilog](ebook/Madilog.pdf)–Tan Malaka (1943)
+8. [Madilog](ebook/Madilog.pdf) – Tan Malaka (1943)
 9. [Serigala Peniru dan Keluarga Kambing](ebook/Serigala Peniru dan Keluarga Kambing.pdf) – Minjung Yoo (2021)
 10. [The Little Prince](ebook/The Little Prince.pdf) – Antoine de Saint-Exupéry (1943)
 11. [Think Straight](ebook/Think Straight.pdf) – Darius Foroux (2024)
