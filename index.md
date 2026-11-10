@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-0. [Transkrip Wawancara](ebook/Transkrip Wawancara.pdf) – Aulia, Marshalinda Rahma (2026)
+Contoh Praktik Awal: [Transkrip Wawancara](ebook/Transkrip Wawancara.pdf) – Aulia, Marshalinda Rahma (2026)
 1. [Metodologi Penelitian](ebook/Metodologi Penelitian.pdf) – Syafrida Hafni Sahir (2021)
 2. [Buku Ajar Dasar-Dasar Statistik Penelitian](ebook/Buku Ajar Dasar-Dasar Statistik Penelitian.pdf) – Nuryadi,dkk. (2017)
 3. [Buku Pengantar Bisnis](ebook/Buku Pengantar Bisnis.pdf) – Buchari Alma (2015)
