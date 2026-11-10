@@ -1,4 +1,7 @@
 # Digital Library
+Nama   : Marshalinda Rahma Aulia
+NIM    : 13040124120015
+
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
